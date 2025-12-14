@@ -2,6 +2,7 @@ name: bde
 channels:
   - defaults
 dependencies:
+  - duckdb-engine=0.15.0
   - fastavro=1.12.1
   - google-cloud-storage=3.4.1
   - grpcio=1.71.0
