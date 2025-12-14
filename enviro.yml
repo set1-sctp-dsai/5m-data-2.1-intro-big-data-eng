@@ -27,6 +27,7 @@ dependencies:
   - aws-checksums=0.2.7
   - aws-crt-cpp=0.34.0
   - aws-sdk-cpp=1.11.638
+  - beautifulsoup4=4.14.2
   - blas=1.0
   - bottleneck=1.4.2
   - brotlicffi=1.2.0.0
@@ -216,6 +217,7 @@ dependencies:
   - sip=6.12.0
   - six=1.17.0
   - snappy=1.2.1
+  - soupsieve=2.5
   - spirv-tools=2025.1
   - sqlalchemy=2.0.43
   - sqlite=3.51.0
